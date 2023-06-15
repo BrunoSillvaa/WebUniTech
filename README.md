@@ -9,6 +9,7 @@
 ### Tópicos 
 
 - [Descrição do projeto](#descrição-do-projeto)
+- [Detalhes do projeto](#detalhes-do-projeto)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Acesso ao projeto](#acesso-ao-projeto)
 - [Desenvolvedores](#desenvolvedores)
@@ -18,7 +19,12 @@
 <p align="justify">
   Projeto de estudos criado por Pedro Queiroz e Bruno Silva. </br>
   Com o obejtivo de aplicarmos nosso conhecimento e aprender a desenvolver em grupo.
- 
+
+## Detalhes do projeto
+
+<p align="justify">
+   Projeto criado inicialmente com Kanban, Levantamento de requisitos, Diagrama de Entidade-Relacionamento e Diagrama de Classes.
+
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=java,react)](https://skillicons.dev)
 
