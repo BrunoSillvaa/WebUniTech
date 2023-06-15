@@ -16,7 +16,8 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto de estudos criado por Pedro Queiroz e Bruno Silva, para aplicarmos nosso conhecimento e aprender a desenvolver em grupo.
+  Projeto de estudos criado por Pedro Queiroz e Bruno Silva. </br>
+  Com o obejtivo de aplicarmos nosso conhecimento e aprender a desenvolver em grupo.
  
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=java,react)](https://skillicons.dev)
